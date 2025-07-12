@@ -1,0 +1,95 @@
+*{
+    font-family: "Inter", sans-serif;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.card{
+    text-align: center;
+    width: 21rem;
+    height: 32rem;
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 8%;
+}
+.img{
+    padding-top: 2em;
+}
+img{
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+    /* padding-top: 2em; */
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    font-weight: 700;
+    
+    font-size: 23px;
+    line-height: 2;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.882);
+}
+.place{
+    color: hsla(75, 94%, 57%, 0.867);
+    font-size: 14px;
+    font-weight: 700;
+}
+.self-intro{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 4;
+    color: rgba(255, 255, 255, 0.644);
+    /* color: hsl(0, 0%, 20%); */
+}
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-evenly;
+    padding-bottom: 1em;
+    width: 85%;
+    
+    align-self: center;
+}
+button{
+    height: 2.9em;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 12%);
+    font-weight: 700;
+    
+    
+}
+button:hover{
+    background-color: hsla(75, 94%, 57%, 0.867);
+    color: black;
+}
+@media (max-width:375px) {
+    .card{
+        margin: 0;
+        margin-top:20%;
+        /* transform: scale(0.8); */
+    }
+}
+
+button a{
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+
