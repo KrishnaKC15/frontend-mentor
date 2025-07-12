@@ -40,4 +40,3 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Website - [Krishna Chauhan]()
 - Frontend Mentor - [@KrishnaKC15](https://www.frontendmentor.io/profile/KrishnaKC15)
 - Likedin- (https://www.linkedin.com/in/krishna-chauhan-1672b8345/)
-- 
