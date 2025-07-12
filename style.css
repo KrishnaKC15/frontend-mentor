@@ -1,0 +1,30 @@
+*{
+    font-family: "Inter", sans-serif;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.card{
+    width: 21rem;
+    height: 32rem;
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    margin: auto;
+    margin-top: 4em;
+}
+
+.head{
+    padding: 3em;
+    font-size: larger;
+    font-weight: 700;
+}
+.links{
+    padding-bottom: 1em;
+    text-decoration: none;
+    color: hsla(75, 94%, 57%, 0.867);;
+}
