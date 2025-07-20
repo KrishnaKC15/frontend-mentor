@@ -33,7 +33,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Flexbox
 
 ## Author
-
-- Website - [Krishna Chauhan]()
+- Github - [View My Github Profile](https://github.com/KrishnaKC15)
+- Portfolio Website-[Visit My Portfolio Website](https://krishnakc15.github.io/Portfolio/)
 - Frontend Mentor - [@KrishnaKC15](https://www.frontendmentor.io/profile/KrishnaKC15)
-- Likedin- (https://www.linkedin.com/in/krishna-chauhan-1672b8345/)
+- Likedin- [Krishna Chauhan](https://www.linkedin.com/in/krishna-chauhan-1672b8345/)
+- View my all Frontend projects live demo- [Frontend Projects](https://krishnakc15.github.io/frontend-mentor/)
