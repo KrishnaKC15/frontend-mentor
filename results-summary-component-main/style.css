@@ -148,19 +148,44 @@ body{
   }
 }
 @media (max-width:591px){
+  .body{
+    overflow-y: hidden;
+  }
   .container{
     margin: 0;
     width: 100%;
-    height: 90vh;
+    height: 95vh;
     flex-direction: column;
     box-shadow: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
   }
   .right-side-card,.left-side-card{
     width: 100%;
-    height: 50%;
+    overflow-y: hidden;
+    margin: 0 0.1em;
   }
-  .attribution{
-    position: fixed;
-    bottom: 1em
+  .right-side-card{
+    transform: scaleY(0.5);
+    transform: scale(0.88);
+  }
+  .upper{
+    padding: 0;
+  }
+  .data{
+    margin: 0;
+        
+  }
+  .data-cards{
+    height: 2.5em;
+  }
+  .head{
+    padding-top: 0em;
+  }
+  .continue{
+    margin-top: 0.5em;
+  }
+  .continue:hover{
+    transform: none;
   }
 }
