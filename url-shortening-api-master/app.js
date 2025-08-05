@@ -1,5 +1,5 @@
 let inputLinkBox=document.querySelector('#input-link')
-let tinyUrlApiKey="TrU0oz6l2aTGBX41aeKmeBo9atIagNc7FJN8yODqEp52aRu3zQPcG6v3Xr4v";
+let tinyUrlApiKey="3JwONqJXASFCnrbNGWDtAg6QaaQkRx3YAteEAw98aUMUpgc77TKKqvuNuqTk";
 let history=document.querySelector('.history');
 let count=1;
 let retriever=1;

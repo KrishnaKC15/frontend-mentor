@@ -7,6 +7,9 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Demo Video](#demo-video)
+
+  
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -32,6 +35,10 @@ Users should be able to:
 
 ![](./preview.png)
 
+
+### Demo Video
+
+![Preview](demo/demo.gif)
 
 ### Links
 
